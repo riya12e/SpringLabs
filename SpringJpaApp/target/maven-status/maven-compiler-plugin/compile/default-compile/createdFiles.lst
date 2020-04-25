@@ -1,0 +1,4 @@
+com\capg\mvc\dao\TraineeDao.class
+com\capg\mvc\controller\TraineeController.class
+com\capg\mvc\service\TraineeService.class
+com\capg\mvc\entities\Trainee.class
